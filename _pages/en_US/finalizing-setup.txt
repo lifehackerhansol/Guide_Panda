@@ -68,23 +68,7 @@ In this section, you will update your system to the latest version, which is saf
   + If this gives you an error, set your DNS settings to "auto"
   + If this still gives you an error, [follow this troubleshooting guide](troubleshooting#unable-to-update-device)
 
-#### Section III - Homebrew Launcher
-
-In this section, you will temporarily replace Download Play with Homebrew Launcher (which we need to launch FBI). Download Play will automatically go back to normal once you reboot your device.
-
-1. Launch the Download Play application (![]({{ "/images/download-play-icon.png" | absolute_url }}){: height="24px" width="24px"})
-1. Wait until you see the `Nintendo 3DS` and `Nintendo DS` buttons
-1. Press (Left Shoulder) + (D-Pad Down) + (Select) at the same time to open the Rosalina menu
-1. Select "Miscellaneous options"
-1. Select "Switch the hb. title to the current app."
-1. Press (B) to continue
-1. Press (B) to return to the Rosalina main menu
-1. Press (B) to exit the Rosalina menu
-1. Press (Home), then close Download Play
-1. Launch the Download Play application
-1. Your device should load the Homebrew Launcher
-
-#### Section IV - RTC and DSP Setup
+#### Section III - RTC and DSP Setup
 
 In this section, you will sync your 3DS internal clock with the actual time and dump the sound firmware (which is necesssary for some homebrew software to use sound properly).
 
@@ -97,17 +81,18 @@ In this section, you will sync your 3DS internal clock with the actual time and 
 1. Press (B) to return to the Rosalina main menu
 1. Press (B) to exit the Rosalina menu
 
-#### Section V - Installing CIAs
+#### Section IV - Installing CIAs
 
 In this section, you will install several useful homebrew applications to HOME Menu.
 
-1. Launch FBI from the list of homebrew
-1. Navigate to `SD` -> `cias`
-1. Select "\<current directory>"
-1. Select the "Install and delete all CIAs" option, then press (A) to confirm
-1. Press (Home), then close Download Play
+1. Launch the DevMenu application
+1. Press (D-Pad Right) until `SDMC` is highlighted
+1. Scroll to `cias`, then press (A) to enter it
+1. Press (L) + (R) + (A) at the same time to install all CIAs
+1. Press (A) to confirm installation
+1. Press (Home), then close DevMenu
 
-#### Section VI - CTRNAND Luma3DS
+#### Section V - CTRNAND Luma3DS
 
 In this section, you will use a script to copy some of Luma3DS's files to internal memory so that they can be accessed, even without an SD card inserted.
 
@@ -125,7 +110,7 @@ In this section, you will use a script to copy some of Luma3DS's files to intern
 1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
 1. Press (A) to continue
 
-#### Section VII - Cleanup SD Card
+#### Section VI - Cleanup SD Card
 
 In this section, you will use a script to remove some unnecessary files from your SD card.
 
@@ -134,7 +119,7 @@ In this section, you will use a script to remove some unnecessary files from you
 1. Press (A) to continue
 1. Press (B) to return to the main menu
 
-#### Section VIII - Backup Essential Files
+#### Section VII - Backup Essential Files
 
 In this section, you will make backups of files that can be used to recover from software bricks or to recover data.
 
