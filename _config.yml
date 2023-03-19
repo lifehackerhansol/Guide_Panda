@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nintendo Homebrew"
 description              : "Full sighax CFW Guide"
-url                      : "https://3ds.hacks.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://panda.hacks.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 enforce_ssl              : "panda.hacks.guide"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hacks-guide/Guide_Panda" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

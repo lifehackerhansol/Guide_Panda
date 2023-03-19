@@ -2,7 +2,7 @@
 title: "Contribute"
 ---
 
-We're glad that you'd like to contribute to 3ds.hacks.guide! Here are a few ways that you can do so:
+We're glad that you'd like to contribute to panda.hacks.guide! Here are a few ways that you can do so:
 
 ## Maintenance
 
@@ -12,7 +12,7 @@ This guide is open-source - its repository is available [here](https://github.co
 
 A number of files on this guide are only available as torrents. If you'd like to help seed these torrents to ensure their availability in the future, you can download the `.zip` file containing all our `.torrent` files: [torrents.zip](assets/torrents.zip) (last updated 2022-01-21)
 
-There is also an [RSS feed]({{ "rss.xml" | absolute_url }}) that may be updated for future torrents, which you can subscribe to.
+There is also an [RSS feed]({{ "https://3ds.hacks.guide/rss.xml" | absolute_url }}) that may be updated for future torrents, which you can subscribe to.
 
 ## Donations
 
