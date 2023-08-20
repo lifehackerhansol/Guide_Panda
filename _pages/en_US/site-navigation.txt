@@ -1,6 +1,5 @@
 ---
 title: "Site Navigation" #
-layout: single
 sitemap: false
 ---
 
@@ -33,6 +32,7 @@ sitemap: false
 + [GodMode9 Usage](godmode9-usage)
 + [H2testw (Windows)](h2testw-(windows))
 + [Home](/)
++ [Installing boot9strap (ntrboot)](installing-boot9strap-(ntrboot))
 + [Installing boot9strap (uloader)](installing-boot9strap-(uloader))
 + [ntrboot](ntrboot)
 + [Restoring / Updating CFW](restoring-updating-cfw)
