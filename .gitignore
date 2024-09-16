@@ -1,16 +1,11 @@
-*.gem
-*.sublime-project
-*.sublime-workspace
-.bundle
-.DS_Store
-.jekyll-metadata
-.sass-cache
-_asset_bundler_cache
-_site
-codekit-config.json
-example/_site
+# Node.js and NPM
 node_modules
 npm-debug.log*
-/vendor
-torrents
-Gemfile.lock
+codekit-config.json
+
+# VitePress
+docs/.vitepress/cache
+docs/.vitepress/dist
+
+# macOS
+.DS_Store
