@@ -1,0 +1,32 @@
+{
+    "language": "English",
+    "title": "Panda 3DS Hacks Guide",
+    "description": "Full sighax CFW Guide",
+    "langMenuLabel": "Switch language",
+    "darkModeSwitchLabel": "Appearance",
+    "darkModeSwitchTitle": "Switch to dark theme",
+    "lightModeSwitchTitle": "Switch to light theme",
+    "sidebarMenuLabel": "Menu",
+    "returnToTopLabel": "Return to top",
+
+    "guide": "Guide",
+    "extras": "Extras",
+    "other": "Other",
+    "pages": {
+        "contribute": "Contribute",
+        "credits": "Credits",
+        "finalizing-setup": "Finalizing Setup",
+        "flashing-ntrboot-(3ds-multi-system)": "Flashing ntrboot (3DS Multi System)",
+        "flashing-ntrboot-(3ds-single-system)": "Flashing ntrboot (3DS Single System)",
+        "flashing-ntrboot-(dsi)": "Flashing ntrboot (DSi)",
+        "flashing-ntrboot-(nds)": "Flashing ntrboot (NDS)",
+        "get-started": "Get Started",
+        "godmode9-usage": "GodMode9 Usage",
+        "installing-boot9strap-(uloader)": "Installing boot9strap (uloader)",
+        "multiple-options": "Multiple Options",
+        "ntrboot": "ntrboot",
+        "privacy-policy": "Privacy Policy",
+        "site-navigation": "Site Navigation",
+        "troubleshooting": "Troubleshooting"
+    }
+}
