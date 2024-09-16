@@ -16,6 +16,10 @@ export default defineConfig({
     root: i18n.en_US
   },
   themeConfig: {
+    docFooter: {
+      prev: false,
+      next: false
+    },
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/MWxPgEp' },
       { icon: 'github', link: 'https://github.com/hacks-guide/Guide_Panda' }
