@@ -8,6 +8,8 @@ import { defineConfig } from 'vitepress'
 
 import * as i18n from './i18n'
 
+process.env.VITE_EXTRA_EXTENSIONS = 'ini,gm9'
+
 export default defineConfig({
   title: "Panda 3DS Hacks Guide",
   description: "Full sighax CFW Guide",
