@@ -7,7 +7,7 @@ This page is for existing boot9strap users to update their installation of boot9
 ## What You Need
 
 * The latest release of [SafeB9SInstaller](https://github.com/d0k3/SafeB9SInstaller/releases/download/v0.0.7/SafeB9SInstaller-20170605-122940.zip) (direct download)
-* The latest release of [boot9strap](https://github.com/SciresM/boot9strap/releases/download/1.4/boot9strap-1.4-devkit.zip) (direct download)
+* The latest release of [boot9strap for devkit](https://github.com/SciresM/boot9strap/releases/download/1.4/boot9strap-1.4-devkit.zip) (direct download)
 * The latest release of [Luma3DS](https://github.com/LumaTeam/Luma3DS/releases/latest) (the Luma3DS `.zip` file)
 
 ## Instructions
