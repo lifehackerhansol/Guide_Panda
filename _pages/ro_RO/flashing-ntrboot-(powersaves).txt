@@ -1,7 +1,0 @@
----
-title: "Instalând ntrboot (Powersaves)"
----
-
-Această metodă nu este încă completă, şi ca atare este doar o pagină substituent.
-
-Această metodă, după ce este gata, va necesita acces temporar la un [Powersaves] (https://amzn.to/2fb3VY7). Această metodă nu este încă completă, şi ca atare este doar o pagină substituent.
